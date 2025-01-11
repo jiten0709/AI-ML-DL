@@ -8,6 +8,12 @@
 
 image-based/assets
 
+# model files
+
+*.keras
+
 # files
 
+*.ipynb_checkpoints
+*.png
 test.ipynb
